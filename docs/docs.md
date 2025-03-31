@@ -1,4 +1,4 @@
-**Dokumentace k programu Garaz:**
+## Dokumentace k programu Garaz:
 
 *Tento program implementuje správu garáže s využitím objektově orientovaného přístupu a moderních principů programování.*
 
@@ -6,10 +6,10 @@
 
 ### 1. **Rozbor implementace a porovnání efektivity**
 
-Program Garaz je navržen s využitím objektově orientovaného přístupu (OOP), což znamená, že jednotlivé části programu jsou rozděleny do tříd, které reprezentují reálné objekty, jako jsou vozidla nebo seznam vozidel. Tento přístup přináší několik klíčových výhod:
+Program Garaz je navržen s využitím objektově orientovaného přístupu (OOP), což znamená, že jednotlivé části jsou rozděleny do tříd, které reprezentují reálné objekty, jako jsou vozidla nebo seznam vozidel. Tento přístup přináší několik klíčových výhod:
 
-- **Modularita a čitelnost:** Kód je rozdělen do logických celků, což usnadňuje jeho pochopení a údržbu.
-- **Znovupoužitelnost:** Jednotlivé třídy lze snadno znovu použít v jiných projektech nebo rozšířit o nové funkcionality.
+- **Modularita a čitelnost:** *Kód je rozdělen do logických celků, což usnadňuje jeho pochopení a údržbu.*
+- **Znovupoužitelnost:** *Jednotlivé třídy lze snadno znovu použít v jiných projektech nebo rozšířit o nové funkcionality.*
 
 Pro porovnání efektivity byly zváženy další dva přístupy:
 
