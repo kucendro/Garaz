@@ -1,4 +1,4 @@
-# Dokumentace k programu Garaz:
+# Dokumentace k programu Garáž:
 
 *Toto je dokumentace k programu Garaz, což je appka na správu garáže. Používá Java Swing (JOptionPane), takže to má takový old-school vibe, ale pořád je to user-friendly.*
 
