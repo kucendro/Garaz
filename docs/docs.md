@@ -1,16 +1,18 @@
-/**
- * Dokumentace k programu Garaz:
- *
- * Tento program implementuje správu garáže s využitím objektově orientovaného přístupu.
- * 
- * 1. **Rozbor implementace a porovnání efektivity:**
- *    - Zvolená implementace využívá strukturovaný přístup s důrazem na čitelnost a modularitu.
- *    - Efektivita této implementace je porovnána s dalšími dvěma přístupy:
- *      a) Procedurální přístup: Tento přístup by mohl být méně čitelný a obtížněji udržovatelný,
- *         zejména při větším rozsahu kódu.
- *      b) Funkcionální přístup: Tento přístup by mohl být efektivnější v některých případech,
- *         ale může být méně intuitivní pro vývojáře zvyklé na objektově orientované programování.
- * 
+**Dokumentace k programu Garaz:**
+
+*Tento program implementuje správu garáže s využitím objektově orientovaného přístupu.*
+
+ 1. **Rozbor implementace a porovnání efektivity:**
+
+    - Zvolená implementace využívá strukturovaný přístup s důrazem na čitelnost a modularitu.
+    - Efektivita této implementace je porovnána s dalšími dvěma přístupy:
+
+        a) *Procedurální přístup: Tento přístup by mohl být méně čitelný a obtížněji udržovatelný,*
+        *zejména při větším rozsahu kódu.*
+
+        b) *Funkcionální přístup: Tento přístup by mohl být efektivnější v některých případech,*
+        *ale může být méně intuitivní pro vývojáře zvyklé na objektově orientované programování.*
+
  * 2. **Princip a možnosti genericity:**
  *    - Genericita umožňuje vytvářet obecné třídy a metody, které mohou pracovat s různými datovými typy,
  *      aniž by bylo nutné psát duplicitní kód.
